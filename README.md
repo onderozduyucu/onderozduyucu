@@ -10,7 +10,7 @@
 - 🤔 I’m currently learning more about BlockChain.
 - 💬 Ask me about Android and Flutter.
 - 📫 How to reach me **dasbey@hotmail.com**
-- ⚡ Fun fact: I spend almost 2 hours surfing new things on the internet everyday. I love to keep myself updated!!
+- 🌎 I love to keep myself updated!! Everything in the world is connected in some way.
 
 
 <h3>My Latest Youtube Videos</h3>
