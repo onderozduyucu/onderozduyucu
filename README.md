@@ -1,3 +1,16 @@
+<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Önder Özduyucu</h1>
+
+<h4> 💫 About Me :</h4>
+
+- 🌱 I am a Software Engineer focused on Flutter💙 
+- 🔭 I’m currently working on **some of my side projects :P**
+- 🤔 I’m currently learning more about BlockChain.
+- 💬 Ask me about Android and Flutter.
+- 📫 How to reach me **dasbey@hotmail.com**
+- ⚡ Fun fact: I spend almost 2 hours surfing new things on the internet everyday. I love to keep myself updated!!
 
 
 <h3>My Latest Youtube Videos</h3>
